@@ -1,0 +1,15 @@
+.fan{
+    display: inline-block;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    width: 209px;
+    margin: 90px;
+}
+.dan3{
+    display: inline-block;
+    text-decoration: none;
+    color: wheat;
+    text-align:center;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    background-color: cyan;
+}
